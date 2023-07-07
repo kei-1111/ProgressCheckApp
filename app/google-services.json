@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230660585658",
+    "project_id": "progresscheckapp",
+    "storage_bucket": "progresscheckapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230660585658:android:ce882958edab10e26daa83",
+        "android_client_info": {
+          "package_name": "com.example.progresscheckapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230660585658-onilo69fora8cuaci1ad2edg60ihpho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8NDhVegplyk7FZYN1Mpl0DIwxOY-xkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230660585658-onilo69fora8cuaci1ad2edg60ihpho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
